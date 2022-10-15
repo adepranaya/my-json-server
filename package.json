@@ -1,0 +1,22 @@
+{
+  "name": "my-json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adepranaya/my-json-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adepranaya/my-json-server/issues"
+  },
+  "homepage": "https://github.com/adepranaya/my-json-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
